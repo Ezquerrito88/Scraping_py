@@ -1,0 +1,332 @@
+[
+    {
+        "uso": "Albaricoquero",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aplicar únicamente en prefloración.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Arbustos y pequeños árboles ornamentales",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Berenjena",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Calabacín",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "En invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Calabaza",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Al aire libre. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se desarrolle plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Cerezo",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aplicar únicamente en prefloración.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Ciruelo",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aplicar únicamente en prefloración.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Coníferas",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Exclusivamente para uso ornamental Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Endrino",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Únicamente para tratamientos a plantaciones comerciales. Aplicar únicamente en prefloración.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Espinacas y similares",
+        "agente": "Áfidos, pulgones, Aphididae Trips",
+        "dosis": "0,6 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "650-800 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Fresal",
+        "agente": "Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Frondosas",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Exclusivamente para uso ornamental Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Lechuga y similares",
+        "agente": "Áfidos, pulgones, Aphididae Trips",
+        "dosis": "0,6 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "650-800 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Melocotonero",
+        "agente": "Áfidos, pulgones, Aphididae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Melón",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Al aire libre. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se desarrolle plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Ornamentales herbáceas",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Palmáceas",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Palmera datilera",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Exclusivamente para uso ornamental (no apto para consumo humano). Aire libre e invernadero. puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Pepino",
+        "agente": "Moscas blancas, Aleyrodidae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "En invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Pimiento",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "En invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Sandía",
+        "agente": "Áfidos, pulgones, Aphididae Moscas blancas, Aleyrodidae",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Al aire libre. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando se desarrolle plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Tomate",
+        "agente": "Moscas blancas, Aleyrodidae Trips",
+        "dosis": "0,75 l/ha",
+        "n_aplic": "Máx. 2",
+        "intervalo": "Mín. 7",
+        "vol_caldo": "800-1000 l/ha",
+        "condiciones": "Aire libre e invernadero. Se puede aplicar en todos los estadíos de desarrollo del cultivo, cuando desarrolle la plaga.",
+        "archivo": "Ficha producto-100629-04_02_2026.pdf"
+    },
+    {
+        "uso": "Berenjena",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "6",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Uso menor por jerarquía nacional de cultivos. Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Calabacín",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "4",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Melón",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "4",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Pepino",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "4",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Uso menor por jerarquía nacional de cultivos. Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Pimiento",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "6",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Tomate",
+        "agente": "Nematodos de los nódulos, Meloidogyne spp.",
+        "dosis": "4 l/ha",
+        "n_aplic": "6",
+        "intervalo": "14 días",
+        "vol_caldo": "10000 - 30000 l/ha",
+        "condiciones": "Tratamientos en invernaderos permanentes. Agente: Meloidogyne incognita. De 2 días antes del trasplante (BBCH12) hasta antes de la recolección / De enero a diciembre",
+        "archivo": "Ficha producto-104100-04_02_2026.pdf"
+    },
+    {
+        "uso": "Vid",
+        "agente": "Ámbito Piral de la vid, Sparganothis pilleriana Polilla del racimo, Lobesia 0,4 botrana",
+        "dosis": "de Aplicación: Agrario - 0,6 l/ha",
+        "n_aplic": "- Tipo de 1-2",
+        "intervalo": "Usuario: Profesional 15 d",
+        "vol_caldo": "- Sistema de Cultivo: Aire 500 - 1000 l/ha",
+        "condiciones": "libre - Método de Aplicación: Manual con mochila Aplicar entre BBCH 10-89.",
+        "archivo": "Ficha producto-88242-04_02_2026.pdf"
+    },
+    {
+        "uso": "Tomate",
+        "agente": "Lepidópteros 0,4",
+        "dosis": "- 0,6 l/ha",
+        "n_aplic": "1-2",
+        "intervalo": "15 d",
+        "vol_caldo": "500 - 800 l/ha",
+        "condiciones": "Aplicar entre BBCH 10-89.",
+        "archivo": "Ficha producto-88242-04_02_2026.pdf"
+    },
+    {
+        "uso": "Vid",
+        "agente": "Piral de la vid, Sparganothis pilleriana Polilla del racimo, Lobesia 0,4 botrana",
+        "dosis": "- 0,6 l/ha",
+        "n_aplic": "1-2",
+        "intervalo": "15 d",
+        "vol_caldo": "500 - 1000 l/ha",
+        "condiciones": "Aplicar entre BBCH 10-89.",
+        "archivo": "Ficha producto-88242-04_02_2026.pdf"
+    },
+    {
+        "uso": "Tomate",
+        "agente": "Lepidópteros 0,4",
+        "dosis": "- 0,6 l/ha",
+        "n_aplic": "1-2",
+        "intervalo": "15 d",
+        "vol_caldo": "500 - 800 l/ha",
+        "condiciones": "Aplicar entre BBCH 10-89.",
+        "archivo": "Ficha producto-88242-04_02_2026.pdf"
+    },
+    {
+        "uso": "Patatas",
+        "agente": "Inhibición brotación",
+        "dosis": "0,02 l/Tm",
+        "n_aplic": "6/año",
+        "intervalo": "28 días",
+        "vol_caldo": "El producto se aplica sin",
+        "condiciones": "Aplicar en post-cosecha, a más tardar al comienzo de la germinación. diluir PS *Periodo mínimo que tiene que transcurrir antes de sacar las patatas tratadas del almacén.",
+        "archivo": "Ficha producto-96161-04_02_2026.pdf"
+    }
+]
