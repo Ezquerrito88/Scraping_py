@@ -206,7 +206,7 @@ def procesar_carpeta(carpeta):
         items = extraer_tabla_v7(os.path.join(carpeta, f))
         todos.extend(items)
 
-    with open('usos_y_dosis_definitivo.json', 'w', encoding='utf-8') as f:
+    with open('usos_y_dosis_definitivo_v1.json', 'w', encoding='utf-8') as f:
         json.dump(todos, f, indent=4, ensure_ascii=False)
     
     print(f"✅ HECHO. {len(todos)} registros limpios de la tabla principal.")
